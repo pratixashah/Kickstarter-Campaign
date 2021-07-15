@@ -1,4 +1,4 @@
-# PacWoman
+# Kickstarter-Campaign
  Organize and analyze a database of 4,000 past Kickstarter projects in order to uncover some hidden trends
 
 ## Resources:
